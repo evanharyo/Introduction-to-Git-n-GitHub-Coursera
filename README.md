@@ -1,2 +1,4 @@
-# Introduction-to-Git-n-GitHub-Coursera
 Introduction to GitHub in Qwiklabs
+
+I am editing the README file. Adding some more details about the project description.
+
